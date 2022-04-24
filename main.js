@@ -9,3 +9,8 @@ function toggle(id) {
     var container = document.getElementById(containerId)
     container.src=img
   }
+//ASDASDSAD ADF
+function toggle_2(id) {
+    var x = document.getElementById(id);
+    x.classList.toggle('d-none')
+  }
